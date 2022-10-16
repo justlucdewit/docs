@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "7b6262ba05f34a59",
+    "type": "split",
+    "children": [
+      {
+        "id": "92beabc8a5003f78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57da8f0c2ba72a49",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bdd77faad5af2ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "06201b879f4f1a79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45237a5abe6dbcbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed2fc2f41e212e0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51b1fa2636ba36f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5230a03e23f80351",
+    "type": "split",
+    "children": [
+      {
+        "id": "abfa09c67dbd5ea8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04808ec3196ab334",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d27a3d533c5914a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ea6873c97efd44d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2faa7e1db3d1dd7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2145053636ee5a4b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "57da8f0c2ba72a49",
+  "lastOpenFiles": [
+    "Daily log/2022-10-16.md",
+    "tools/Business Central/Setting up BC development environment.md",
+    "tools/Docker/Installing docker.md",
+    "Pasted image 20221016180552.png",
+    "Pasted image 20221016180302.png",
+    "Pasted image 20221016180125.png",
+    "Pasted image 20221016161120.png",
+    "tools/AL language/Handy links.md",
+    "tools/Docker/Deleting a docker container.md",
+    "tools/Docker/Starting a docker container.md"
+  ]
+}

@@ -1,0 +1,1 @@
+To install visual studio code, go to [their website](https://code.visualstudio.com/), and install it, this should be very straight forward and quick to do (5min at max), after that, you can start the application.
